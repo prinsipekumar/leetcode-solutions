@@ -1,5 +1,5 @@
 # About
-This repository contains my solutions to various LeetCode problems implemented in Java.
+This repository contains my solutions to various LeetCode problems.
 The goal is to practice data structures, algorithms, and problem-solving skills while preparing for technical interviews.
 
 # Repository Structure
